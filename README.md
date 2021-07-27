@@ -3,4 +3,5 @@
 ## チャージアンプ回路と50 HzノイズカットのTwinTCR回路
 ![chargeamp](https://user-images.githubusercontent.com/43879424/127097449-987aae51-a448-4a72-a7f9-6b7a19f854bc.jpg)
 
+チャージアンプ回路は以下の通り。電荷を電圧に変換させる。
 ## 圧電体の電圧計測に基づく新規回路
