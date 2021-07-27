@@ -3,5 +3,7 @@
 ## チャージアンプ回路と50 HzノイズカットのTwinTCR回路
 ![chargeamp](https://user-images.githubusercontent.com/43879424/127097449-987aae51-a448-4a72-a7f9-6b7a19f854bc.jpg)
 
-チャージアンプ回路は以下の通り。電荷を電圧に変換させる。
+チャージアンプ回路は上の通り。電荷を電圧に変換させる。
+![TwinTCR](https://user-images.githubusercontent.com/43879424/127098384-d3f10031-cab2-4e95-baa6-ee736f62c8c3.jpg)
+TwinTCR回路は上の通り。コンデンサCと抵抗Rの組み合わせを変えることでノッチフィルターの周波数を選択することが出来る。今回は、電源ノイズを消したいため、関東の電源は50 Hzであることに基づいて作成。
 ## 圧電体の電圧計測に基づく新規回路
